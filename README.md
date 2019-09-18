@@ -11,6 +11,7 @@ Java backend interview assignment for Aequilibrium.
 ## Database Setup
 1. Download [DynamoDB Local Version](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html)
 2. Run the DynamoDB JAR file on port 8001 by executing the following command
+
 ```java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb -port 8001```
 
 ## Server Setup
