@@ -1,0 +1,12 @@
+com/aequilibrium/Transformers/services/BattleService$1.class
+com/aequilibrium/Transformers/controllers/TransformerController.class
+com/aequilibrium/Transformers/models/Transformer.class
+com/aequilibrium/Transformers/models/CreateTransformerRequest.class
+com/aequilibrium/Transformers/TransformersApplication.class
+com/aequilibrium/Transformers/services/BattleService.class
+com/aequilibrium/Transformers/models/BattleResponse.class
+com/aequilibrium/Transformers/validation/Validator.class
+com/aequilibrium/Transformers/models/UpdateTransformerRequest.class
+com/aequilibrium/Transformers/services/TransformerService.class
+com/aequilibrium/Transformers/models/BattleRequest.class
+com/aequilibrium/Transformers/dynamo/TransformersTable.class
